@@ -62,5 +62,12 @@ Using Metasploit **multi/recon/local_exploit_suggester**
 
 ![alt text](image-9.png)
  
+ **We find some options**
+ ![alt text](image-10.png)
 
+**I decided to use kitrap0d exploit**
+
+And i get a session 
+
+![alt text](image-11.png)
 
